@@ -3,12 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash Bhangale</h1>
 
 <h3 align="center">A passionate programmer from India</h3>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
-  </tr>
-</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhangale9&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhangale9" /> </p>
 
