@@ -23,7 +23,7 @@ Skills: HTML / CSS / JAVASCRIPT / PYTHON / C / C++/ unreal /  linux administrato
 
 
 
-<p align="left">
+<p align="centre">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
