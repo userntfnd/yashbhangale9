@@ -31,3 +31,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashbhangale9&show_icons=true&locale=en" alt="yashbhangale9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhangale9&" alt="yashbhangale9" /></p>
+
+
+
+
+
+
+
+
+
+[![Ajink's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ajinkgupta&amp;theme=tokyonight)]()
+
+| ![Ajink's github stats](https://github-readme-stats.vercel.app/api?username=Ajinkgupta&amp;show_icons=true&amp;theme=tokyonight) | ![Ajink GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajinkgupta&amp;theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkgupta&amp;theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ajinkgupta&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight) |
